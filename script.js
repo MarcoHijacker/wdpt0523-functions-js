@@ -13,7 +13,6 @@
 //     console.log("Hello World");
 // }
 
-
 //? 3. Richiamare (invocare) una funzione
 // greet();
 
@@ -26,7 +25,7 @@
 
 // personGreet(myChar);
 
-// Crea una funzione che acquisisca in input un array ed un intero e stampi in console l'elemento dell'array associato alla chiave pari all'intero.
+// Crea una funzione che acquisisca in input un array ed un intero e stampi in console l'elemento dell'array associato alla chiave pari all'intero fornito.
             //   0,     1,   2,      3.
 // let array = ["Ciao", 72, "Pippo", true];
 // let index = 10; // index out of bound...
